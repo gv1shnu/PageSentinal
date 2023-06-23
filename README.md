@@ -2,15 +2,6 @@
 
 Track and monitor changes on your favorite websites, ensuring you stay up-to-date with the latest changes.
 
-## Table of Contents
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Limitations](#limitations)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - **Webpage Monitoring**: Monitors changes in the state of a webpage by comparing the current state with the previous state.
@@ -66,7 +57,7 @@ To use the PageSentinal application:
 
 ## Contributing
 
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request. Make sure to follow the existing coding style and conventions.
+Contributions and code reviews are welcome! 
 
 ## License
 
